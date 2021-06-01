@@ -172,6 +172,10 @@ The allowable entries for `color` are:
 		3f_zenne92	(3 Fonteinen Zenne Y Frontera Blend 92);
 		3f_zenne93	(3 Fonteinen Zenne Y Frontera Blend 93);
 		3f_zenne94	(3 Fonteinen Zenne Y Frontera Blend 94).
+		3f_brown		(3 Fonteinen Strenge Winter);
+		3f_druif		(3 Fonteinen Druif variants);
+		3f_pruim		(3 Fonteinen Pruim variants);
+		3f_yellow	(3 Fonteinen Golden Blend).
 		
 		
 You may enter any string of text you like for `bottledate`.  It will be displayed at the top of the tag (within the color swath, assuming you choose a color other than 'clear'.
